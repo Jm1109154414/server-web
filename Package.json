@@ -1,41 +1,13 @@
 {
-  "name": "JM1109154414.github.io",
+  "name": "server-web",
   "version": "1.0.0",
-  "description": "Actividad de API con GET externo y POST en servidor",
-  "main": "server.js",
-  "scripts": {
-    "porfa": "node Archivo.js",
-    "start": "node Archivoserv.js",
-    "imss": "node Archivo2.js",
-    "chalk": "node Archivo3.js",
-    "api": "node Archivo4.js",
-    "server": "node Archivoserv.js",
-    "dev": "node Server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JM1109154414/JM1109154414.github.io.git"
-  },
-  "keywords": [
-    "api",
-    "node",
-    "express",
-    "get",
-    "post"
-  ],
-  "author": "",
-  "license": "ISC",
+  "description": "Servidor Node para el proyecto web con rutas HTML y APIs simples.",
+  "main": "Server2.js",
   "type": "module",
-  "bugs": {
-    "url": "https://github.com/JM1109154414/JM1109154414.github.io/issues"
+  "scripts": {
+    "start": "node Server2.js"
   },
-  "homepage": "https://github.com/JM1109154414/JM1109154414.github.io#readme",
-  "dependencies": {
-    "axios": "^1.12.2",
-    "chalk": "^5.6.2",
-    "cors": "^2.8.5",
-    "dotenv": "^17.2.1",
-    "express": "^5.1.0"
-  }
+  "author": "Jm1109154414",
+  "license": "ISC",
+  "dependencies": {}
 }
